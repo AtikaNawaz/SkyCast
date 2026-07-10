@@ -1,5 +1,10 @@
 # 🌤️ SkyCast
 
+<p align="center">
+  <img src="assets/skycast-mockup.png" alt="SkyCast Preview" width="100%">
+</p>
+
+
 A modern and responsive weather application built with **HTML**, **CSS**, **JavaScript**, and **WeatherAPI**.
 
 SkyCast provides real-time weather information with a premium UI, smooth animations, dynamic weather visuals, and a clean user experience.
