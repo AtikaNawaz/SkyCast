@@ -4,60 +4,115 @@
   <img src="assets/skycast-mockup.png" alt="SkyCast Preview" width="100%">
 </p>
 
+<p align="center">
+  <strong>A Modern Weather Application with Dynamic Themes, Live Forecasts & Premium UI</strong>
+</p>
 
-A modern and responsive weather application built with **HTML**, **CSS**, **JavaScript**, and **WeatherAPI**.
-
-SkyCast provides real-time weather information with a premium UI, smooth animations, dynamic weather visuals, and a clean user experience.
-
-> 🚧 **Project Status:**
-> 
-## 🌐 Live Demo
-
-👉 https://atikanawaz.github.io/SkyCast/
-
-New features and UI improvements are being added regularly.
+<p align="center">
+  <a href="YOUR_GITHUB_PAGES_LINK">🌐 Live Demo</a> •
+  <a href="https://github.com/AtikaNawaz/SkyCast">📂 GitHub Repository</a>
+</p>
 
 ---
 
-## ✨ Features
+## ✨ Overview
 
-- 🔍 Search weather by city
-- 📍 Current location weather
-- 🌡️ Celsius / Fahrenheit toggle
-- 📅 5-Day Weather Forecast
-- 💧 Humidity, Wind, Pressure & Visibility
-- 🌅 Sunrise & Sunset information
-- 🕒 Real-time local date & time
-- 💾 Recent Searches (Local Storage)
-- 🎨 Dynamic Weather Themes
-- 🌧️ Animated Rain Effects
-- 📱 Responsive Design
+SkyCast is a modern weather application built using **HTML**, **CSS**, and **JavaScript**, powered by the **WeatherAPI**.
+
+The goal of this project was not only to display weather data but also to create a polished, responsive, and visually engaging user experience with smooth animations and weather-based themes.
 
 ---
 
-## 🛠️ Built With
+## 🚀 Features
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- WeatherAPI
-
----
-
-## 🚀 Future Improvements
-
-- More weather animations
-- Dark/Light mode
-- Air Quality Index (AQI)
-- UV Index
-- Hourly Forecast
-- Better weather illustrations
-- Performance optimizations
+* 🔍 Search weather by city
+* 📍 Current location weather
+* 🌡️ Celsius / Fahrenheit toggle
+* 📅 5-Day Weather Forecast
+* 🌙 Dynamic Day & Night themes
+* ☀️ Animated Sun & Clouds
+* 🌧️ Rain Animation
+* 🌩️ Weather-based backgrounds
+* 💾 Recent search history
+* 📱 Fully Responsive Design
+* ⚡ Fast and lightweight interface
 
 ---
 
-## 👨‍💻 Author
+## 🛠️ Tech Stack
 
-**Atika**
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* WeatherAPI
+* Git & GitHub
+* GitHub Pages
 
-Frontend Developer | Learning by Building
+---
+
+## 📸 Screenshots
+
+### Desktop
+
+<p align="center">
+  <img src="assets/skycast-mockup.png" width="100%">
+</p>
+
+---
+
+## 📱 Responsive Design
+
+SkyCast is designed to provide a smooth experience across:
+
+* 💻 Desktop
+* 📱 Mobile
+* 📟 Tablet
+
+---
+
+## 🎯 Project Goals
+
+This project was built to strengthen practical frontend development skills, including:
+
+* API Integration
+* Responsive Web Design
+* Dynamic DOM Manipulation
+* JavaScript Logic
+* UI/UX Design
+* Git & GitHub Workflow
+* Deployment with GitHub Pages
+
+---
+
+## 🚀 Live Demo
+
+🌐 **Live Website**
+
+YOUR_GITHUB_PAGES_LINK
+
+---
+
+## 📂 Repository
+
+https://github.com/AtikaNawaz/SkyCast
+
+---
+
+## 🔮 Future Improvements
+
+* 🌍 Air Quality Index
+* 🗺️ Interactive Weather Maps
+* 🌅 Sunrise & Sunset Details
+* ⏰ Hourly Forecast
+* ❤️ Favorite Cities
+* 🌎 Multiple Language Support
+
+---
+
+## 👩‍💻 Author
+
+**Atika Nawaz**
+
+Passionate Full Stack Developer focused on building clean, modern, and user-friendly web experiences.
+
+If you like this project, consider giving it a ⭐ on GitHub.
