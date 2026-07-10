@@ -1,7 +1,7 @@
 # 🌤️ SkyCast
 
 <p align="center">
-  <img src="assets/skycast-mockup.png" alt="SkyCast Preview" width="100%">
+  <img src="assets/SkyCast Mockup.png" alt="SkyCast Preview" width="100%">
 </p>
 
 <p align="center">
