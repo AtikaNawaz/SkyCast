@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://atikanawaz.github.io/SkyCast/)">🌐 Live Demo</a> •
+  <a href="https://atikanawaz.github.io/SkyCast/">🌐 Live Demo</a> •
   <a href="https://github.com/AtikaNawaz/SkyCast">📂 GitHub Repository</a>
 </p>
 
